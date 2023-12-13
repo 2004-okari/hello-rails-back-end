@@ -21,7 +21,7 @@ default: &default
 
 development:
   <<: *default
-  database: hello_rails_back_end_development
+  database: hello_rails_back_end
 
   # The specified database role being used to connect to PostgreSQL.
   # To create additional roles in PostgreSQL see `$ createuser --help`.
